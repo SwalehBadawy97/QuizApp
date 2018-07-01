@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="qn1">1. What is your name?</string>
+    <string name="qn2">2. Which of the following is a Programming language?</string>
+    <string name="qn2_answer1">Java</string>
+    <string name="qn2_answer2">HTML</string>
+    <string name="qn2_answer3">CSS</string>
+    <string name="qn3">3. Which of the following are Android Views?</string>
+    <string name="qn3_answer1">Image View</string>
+    <string name="qn3_answer2">Radio Group</string>
+    <string name="qn3_answer3">Text View</string>
+    <string name="qn3_answer4">Linear Layout</string>
+    <string name="qn4">4. Are you human?</string>
+    <string name="qn4_answer1">Yes</string>
+    <string name="qn4_answer2">No</string>
+    <string name="qn5">5. Select the human body parts</string>
+    <string name="qn5_answer1">CPU</string>
+    <string name="qn5_answer2">Liver</string>
+    <string name="qn5_answer3">Noozle</string>
+    <string name="qn5_answer4">Brain</string>
+</resources>
